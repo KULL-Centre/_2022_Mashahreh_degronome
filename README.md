@@ -6,3 +6,6 @@ __"Conserved degronome features governing quality control associated proteolysis
 
 by Mashahreh et al.
 
+
+[![DOI](https://zenodo.org/badge/568742823.svg)](https://zenodo.org/badge/latestdoi/568742823)
+
